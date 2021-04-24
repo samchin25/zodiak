@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    }
+.zodiak {
+    width: 200px;
+    margin:0 auto;
+    text-align: center;
+}
+.zodiak img {
+    display:block;
+    width:150px;
+    margin:0 auto;
+}
+.zodiak p {
+    font-size: 18px;
+    font-family: sans-serif;
+    color:white;
+}
